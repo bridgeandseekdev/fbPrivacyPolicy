@@ -28,3 +28,4 @@ Bridge and Seek may amend this Privacy Statement from time to time. Use of infor
 QUESTIONS OR CONCERNS.
 If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at bridgeandseekdev@gmail.com. We will make every effort to resolve your concerns.
 Effective Date: December 1, 2021
+- Data deletion: All the data that you have provided to us or has been collected by Bridge and Seek will be automatically deleted once you delete your account from the app. To delete your account, please go to the profile tab, tap on the menu icon and hit the delete account button. To delist Bridge and Seek from facebook, login to your facebook account -> navigate to menu -> Settings and Privacy -> Settings -> Permissions(Apps and Websites). Select Bridge and Seek and delete the data.
